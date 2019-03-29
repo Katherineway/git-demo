@@ -2,6 +2,9 @@
 67891
 ABCD
 
+<<<<<<< HEAD
 hello my darling
 yes
 -------------------
+=======
+>>>>>>> 5c2f6339bbdc8b26f74c0462cfecdd86cebb8e8b
